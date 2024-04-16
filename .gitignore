@@ -1,0 +1,6 @@
+node_modules/
+env/
+__pycache__/
+phone_numbers.csv
+output.html
+index.html
